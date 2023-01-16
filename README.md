@@ -8,7 +8,7 @@ I am an engineer who loves new technologies.
 
 * 🌍  I'm based in Ukraine, Odesa.
 * ✉️  You can contact me at [olegvakarchuk94@gmail.com](mailto:olegvakarchuk94@gmail.com)
-* 🚀  I'm currently working on [Grid Dynamics](http://https://www.griddynamics.com/)
+* 🚀  I'm currently working on [Grid Dynamics](https://www.griddynamics.com/)
 * 🧠  I'm learning AWS Certified Cloud Practitioner
 * 🤝  I'm open to collaborating on Projects
 * ⚡  React Native 🤘😎🤘
